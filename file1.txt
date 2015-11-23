@@ -1,0 +1,27 @@
+<!doctype html>
+
+<html>
+<head>
+ <title> TABLE </title>
+ 	<style type="text/css">
+	.biggertext{font size="50";} 
+	
+	body {
+	background-color:Bisque;
+	color:purple;
+	}
+	
+		h1 {color:blue;
+			font-family:arial;}
+		
+		p {color:crimson;
+			font-family:arial;}
+		
+		td {text-align:center;}
+			 
+	</style>
+	
+	<marquee><p style="font-size:50px"><em><strong>WELCOME</strong><em></p></marquee>
+</head>
+
+<body>
